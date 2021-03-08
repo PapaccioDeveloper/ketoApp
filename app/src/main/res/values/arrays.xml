@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayRecetas">
+        <item>Receta 1</item>
+        <item>Receta 2</item>
+        <item>Receta 3</item>
+        <item>Receta 4</item>
+        <item>Receta 5</item>
+        <item>Receta 6</item>
+        <item>Receta 7</item>
+        <item>Receta 8</item>
+        <item>Receta 9</item>
+        <item>Receta 10</item>
+        <item>Receta 11</item>
+
+    </string-array>
+
+
+</resources>
