@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    xmlns:tools="http://schemas.android.com/tools" tools:contex=".MainActivity">
+    <item android:id="@+id/ayuda" android:title="Ayuda" android:orderInCategory="10" android:icon="@android:drawable/ic_menu_help" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/listado" android:title="Listado" android:orderInCategory="20" android:icon="@android:drawable/list_selector_background" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/recetas" android:title="Recetas" android:orderInCategory="30" android:icon="@android:drawable/ic_search_category_default"/>
+    <item android:id="@+id/salir" android:title="Cerrar Sesion" android:orderInCategory="40" android:icon="@android:drawable/ic_menu_delete" app:showAsAction="always"/>
+
+
+
+</menu>
